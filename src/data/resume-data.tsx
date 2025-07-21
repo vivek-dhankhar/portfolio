@@ -101,7 +101,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "/",
+        href: "https://github.com/vivek-dhankhar/chat-app-ui",
       },
     },
     {
@@ -118,7 +118,7 @@ export const RESUME_DATA = {
       logo: EvercastLogo, 
       link: {
         label: "github.com",
-        href: "https://github.com/vivek-dhankhar/Code-Flow",
+        href: "https://github.com/vivek-dhankhar/codeflow",
       },
     },
   ],
